@@ -1,6 +1,6 @@
 import {Libro} from './interfaces/Libro';
 export class Biblioteca {
-    private libros: Libro[];
+    protected libros: Libro[];
     
     constructor(){
         this.libros = [];
