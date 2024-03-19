@@ -40,4 +40,7 @@ Una vez clonado ejecutar.
 
 <img src="diagrama.png" />
 
+### Captura de resultado
+
+<img src="captura.png" />
 
