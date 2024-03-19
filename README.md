@@ -37,8 +37,9 @@ Una vez clonado ejecutar.
 ```
 
 ### Diagrama de clases
-
-<img src="diagrama.png" />
+<p align="center">
+   <img src="diagraman.png" />
+</p>
 
 ### Captura de resultado
 
