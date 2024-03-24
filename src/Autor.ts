@@ -1,10 +1,21 @@
 import { Persona } from "./interfaces/Persona";
-export class Autor implements Persona {
 
-  constructor(public nombre: string, public apellido: string) {}
+
+
+
+export class Autor extends Persona {
+
+
+  //si id es 0 entonces es un autor nuevo
+
+  constructor(nombre: string, apellido: string) {
+    super(nombre, apellido);
   
+  }
+  
+
   toString(): string {
-    return `${this.nombre} ${this.apellido}`;
+    return `${this.id} ${this.nombre} ${this.apellido}`;
   }
   
 
