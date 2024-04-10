@@ -1,5 +1,13 @@
 # Diplomatura en Full Stack - UTN.BA
 ## BackEnd
+### Indice
+
+* <a href="#practico1">Práctico 1 (Aplicación simple)</a>
+* <a href="#practico2">Práctico 2 (DB con MySQL)</a>
+
+
+
+<a name="practico1"></a>
 ### Práctico N 1
 
 Consigna de trabajo práctico integral de poo
@@ -45,3 +53,9 @@ Una vez clonado ejecutar.
 
 <img src="captura.png" />
 
+
+<a name="practico2"></a>
+### Práctico 2
+<a href="./db/dump-tienda-202404092320.sql"> Tienda (Base de datos)
+<br><br>
+<img src="esquemaDBp2.png" />
